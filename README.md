@@ -8,7 +8,7 @@ The backend API service for Healthkard - A healthcare subscription platform revo
 
 ## 🌐 Live Platform
 - **Website**: [healthkard.in](https://healthkard.in)
-- **Region Served**: Narasaraopet and Guntur
+- **Region Served**: Guntur, Narasaraopet and Vijayawada in India
 - **Current Status**: Actively serving 2,000+ users across 25+ hospitals
 
 ## 🌟 Features
