@@ -1,4 +1,4 @@
-# 🏥 Healthkard Backend healthkard.in
+# 🏥 Healthkard Backend
 
 The backend API service for Healthkard - A healthcare subscription platform revolutionizing doctor consultations by providing zero-fee access to qualified doctors across a network of trusted hospitals.
 
