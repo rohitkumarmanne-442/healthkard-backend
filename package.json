@@ -1,0 +1,28 @@
+{
+    "name": "healthkard",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.7.9",
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "google-auth-library": "^9.15.0",
+        "googleapis": "^144.0.0",
+        "healthkard": "file:",
+        "mongodb": "^6.12.0",
+        "mongoose": "^8.9.2",
+        "nodemailer": "^6.9.16",
+        "nodemon": "^3.1.9",
+        "sha256": "^0.2.0",
+        "twilio": "^5.2.3",
+        "uniqid": "^5.4.0"
+    }
+}
