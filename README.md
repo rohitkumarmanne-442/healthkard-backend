@@ -1,6 +1,15 @@
 # 🏥 Healthkard Backend
 
+[![Website](https://img.shields.io/badge/Website-healthkard.in-blue?style=flat-square)](https://healthkard.in)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)]()
+
 The backend API service for Healthkard - A healthcare subscription platform revolutionizing doctor consultations by providing zero-fee access to qualified doctors across a network of trusted hospitals.
+
+## 🌐 Live Platform
+- **Website**: [healthkard.in](https://healthkard.in)
+- **Region Served**: Narasaraopet and Guntur
+- **Current Status**: Actively serving 2,000+ users across 25+ hospitals
 
 ## 🌟 Features
 
@@ -101,6 +110,7 @@ npm run dev
 
 - 📊 **Records**
   - `/records` - Medical records management
+
 
 ## 👥 Contact
 
